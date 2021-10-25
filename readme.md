@@ -1,6 +1,8 @@
 ## Commands
 
-
+# run
+* npm install
+* npm run start
 
 * `login [name]` - Logs in as this customer and creates the customer if not exist
 
